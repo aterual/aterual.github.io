@@ -4,10 +4,10 @@ title: About me
 subtitle: A brief personal description about me
 ---
 
-My name is Laura Malaguilla, I am from Barcelona and I am addicted to improving myself in any area. Have a look at my background below!
+My name is Laura Malaguilla. I am 22 years old, I am from Barcelona and I am addicted to improving myself in any area. Have a look at my background below!
 
 ### Education
-- Bachelor's Degree in Bioinformatics at ESCI-UPF(2020 - 2024)
+- Bachelor's Degree in Bioinformatics at ESCI-UPF (2020 - 2024)
 - Master in Health Data Science at URV (2024 - 2026)
 
 ### Experience
