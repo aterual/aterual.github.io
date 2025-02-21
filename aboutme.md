@@ -1,17 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: A brief personal description
+subtitle: A brief personal description about me
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Laura Malaguilla, I am from Barcelona and I am addicted to improving myself in any area. Have a look at my background below!
 
 ### Education
-
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Bachelor's Degree in Bioinformatics at ESCI-UPF(2020 - 2024)
+- Master in Health Data Science at URV (2024 - 2026)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Research assistant on a PhD student in CSIC - ICM (2022 - 2023)
+- Intern student at Vall Hebron Institut Research (2023 - 2024)
+- Data analyst in TRAGSATEC working for the subdirecció de seguretat alimentaria i protecció de la salut (2024 - present)
