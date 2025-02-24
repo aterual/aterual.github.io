@@ -10,7 +10,7 @@ author: Laura Malaguilla
 
 navbar-links:
   About Me: "aboutme"
-  Example Page: "example"
+  Blog: "_posts/2025-02-24-blogentry.md"
 
 ################
 # --- Logo --- #
